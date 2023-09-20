@@ -113,9 +113,9 @@ List any prerequisites or dependencies users need to have installed before start
 
 ### Screenshots
 
-### Screenshots
-
 ![Screenshot](https://drive.google.com/uc?id=1BOKK3xP-S2ueM7qY2SpsOO1-AsP2wfQp)
+
+[See More Screenshots](https://github.com/kawik1/Google-Drive-File-Uploader/tree/main/Screenshots)
 
 ## Troubleshooting
 
@@ -149,7 +149,7 @@ If you encounter any issues or run into problems while using the **Google Drive 
 
 - Check the application logs for error messages and stack traces to identify the issue.
 - Review your code for potential bugs or issues in the implementation.
-- Visit our [GitHub Issues](https://github.com/your-username/your-repo/issues) page to see if others have reported similar problems and find potential solutions or workarounds.
+- Visit our [GitHub Issues](https://github.com/kawik1/Google-Drive-File-Uploader/issues) page to see if others have reported similar problems and find potential solutions or workarounds.
 
 If you continue to experience issues or have questions that are not addressed here, please refer to the [Help and Support](#help-and-support) section for additional assistance.
 
